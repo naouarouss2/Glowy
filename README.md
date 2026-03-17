@@ -8,6 +8,11 @@ I have always been fond of mood and party lighting, and I think that the idea of
 - WiFi connectivity
 - More than 100 lighting effect
 - Sound reactive effects
-## CAD
+## 3D Design
 ## Wiring diagram
+## Credits
+Made by **Oussama NAOUAR**
+
+Total work time logged :
+## License
 ## BOM
