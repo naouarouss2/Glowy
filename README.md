@@ -9,6 +9,8 @@ I have always been fond of mood and party lighting, and I think that the idea of
 - More than 100 lighting effect
 - Sound reactive effects
 ## 3D Design
+## Firmware
+For this project, I will be using the [WLED firmware](https://kno.wled.ge/)
 ## Wiring diagram
 ## Credits
 Made by **Oussama NAOUAR**
