@@ -20,7 +20,7 @@ Please note that each strip is 20 LEDs long.
 ## Credits ❤️
 Made by **Oussama NAOUAR**
 
-Total work time logged :
+Total work time logged : 23.4h
 ## License 🔓
 This project is put opensource.
 
