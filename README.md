@@ -20,6 +20,8 @@ Please note that each strip is 20 LEDs long.
 ## Credits ❤️
 Made by **Oussama NAOUAR**
 
+Made as part of the **Hack Club Stasis** program asking for a grant.
+
 Total work time logged : 23.4h
 ## License 🔓
 This project is put opensource.
